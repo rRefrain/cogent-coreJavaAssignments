@@ -1,0 +1,9 @@
+Michael Miranda
+Batch#64
+
+
+Contains:
+CoreJavaDay1Assignment
+CoreJavaDay2Assignment
+CoreJavaDay3Assignment
+CoreJavaDay4Assignment
